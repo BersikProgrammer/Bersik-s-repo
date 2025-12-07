@@ -1,2 +1,2 @@
-# Bersik-s-repo
+# Мой первый репозиторий
 Repo for study
